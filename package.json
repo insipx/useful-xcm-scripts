@@ -1,0 +1,16 @@
+{
+  "name": "launch-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node hrmp.js"
+  },
+  "dependencies": {
+    "@polkadot/api": "^9.2.4",
+    "@polkadot/keyring": "^8.4.1",
+    "@polkadot/util": "^8.4.1",
+    "@polkadot/util-crypto": "^8.4.1",
+    "cli-color": "^2.0.3"
+  }
+}

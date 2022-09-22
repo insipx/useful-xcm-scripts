@@ -1,0 +1,42 @@
+Arguments: 
+  /nix/store/cdalbhzm3z4gz07wyg89maprdbjc4yah-nodejs-14.17.0/bin/node /home/insipx/.nix-profile/bin/yarn
+
+PATH: 
+  /nix/store/c1vb2z3c64i0sd92iz7fv0lb720qcvhb-python3-3.10.6/bin:/nix/store/zwd4xhxsklsqsqn5vgz4zdw33wkmiw77-patchelf-0.15.0/bin:/nix/store/n95cd4q1dqzdvsiy1hmrkx9shwi3n4sh-gcc-wrapper-11.3.0/bin:/nix/store/8rx9i9c5lh5rmz31y6ndh7j3nslnk8cp-gcc-11.3.0/bin:/nix/store/kjknajcldbcfwz92lq92njk5b52y5vzv-glibc-2.35-163-bin/bin:/nix/store/mj6wiv9gbbydh06x2i4fl5a9ksdck7c5-coreutils-9.1/bin:/nix/store/n73cfcbgf1bs3rvcp8bgcfgi9dr5bbgc-binutils-wrapper-2.38/bin:/nix/store/frriydwnf7v3dpayy5a6ki00qsp95iiy-binutils-2.38/bin:/nix/store/wj246l2krr90h5z368srmm4rvm1025zn-valgrind-3.19.0/bin:/nix/store/afi0x8ywvkfcxdhh7pklr21r5xsw7727-gdb-12.1/bin:/nix/store/010fqkvaaiyna46p9rq8zz28vgfrgwvw-gdbgui-0.15.0.1/bin:/nix/store/0f0jqpzfa9zaw23xp12h97irisfcmxsw-python3.10-flask-2.1.3/bin:/nix/store/laq3qg1p7zg6ggrp0nzj3k85wmrxa062-python3.10-python-dotenv-0.20.0/bin:/nix/store/bc1dsf30amwwvdbb6bk8mr0i2rz65a54-python3.10-babel-2.10.3/bin:/nix/store/ndvyjvyfjh93rxzv782g2f868n83a0dz-python3.10-watchdog-2.1.9/bin:/nix/store/jjp991973bp1a8f72cl5h2lzpyg0c840-python3.10-charset-normalizer-2.1.0/bin:/nix/store/dzignbywknnvrdkmyjaha04gj5amlk08-python3.10-cchardet-2.1.7/bin:/nix/store/q9mzkmvpj4hhymq5wckm4ywkz2fs3hqa-python3.10-sphinx-5.1.1/bin:/nix/store/mxm34aznbglhlpyjly9msmzbllydyqna-python3.10-pygments-2.12.0/bin:/nix/store/y13hcbndgmy9243jgs1rmxa1k03r5w32-python3.10-docutils-0.19/bin:/nix/store/lly3gxzrl5gn7cz0bxc12hzd3c599p9x-python3.10-pbr-5.9.0/bin:/nix/store/wykp4wrp2c7531wphzxm2jag1av07q7c-python3.10-websocket-client-1.3.3/bin:/nix/store/0q9cvhxhs7cf95813qxwgr4yadg3q8wn-rr-5.6.0/bin:/nix/store/h1a5dm2y42pwgi3wi274srwk87np77np-dprint-0.30.3/bin:/nix/store/78vcpbc7pl9fkw62rsl3l0v96fq6cs2i-openssl-1.1.1q-bin/bin:/nix/store/v6cf8gw0nvr6csqqfbgi1v64rcbw9c7p-pkg-config-wrapper-0.29.2/bin:/nix/store/am5da6zl5wlvadkwhmrcv0y5jymnc8bn-nasm-2.15.05/bin:/nix/store/0qryxwsnj73z82qwcw8sakqk97d906y8-rust-default-1.62.0-nightly-2022-05-11/bin:/nix/store/xjg2fzw513iig1cghd4mvcq5fh2cyv4y-cmake-3.24.0/bin:/nix/store/jysh153c3mb4qc6kwq49yl2fgkvq9vr9-clang-wrapper-11.1.0/bin:/nix/store/gvrdvprkih3bv5h31n6ry89l27pmzw26-clang-11.1.0/bin:/nix/store/kwqc0qknrnnnvprzrsvf9jwq0b80hihi-binutils-wrapper-2.38/bin:/nix/store/zg101nfbvl7a7wlsljf3vl3khivaldfr-clang-11.1.0-dev/bin:/nix/store/x167mv1qdkmk1s4mw1kb56s3rfw1ff9h-xz-5.2.5-bin/bin:/nix/store/8wawpsramclcwsdyd9b4zwz56kz8j42d-autoconf-2.71/bin:/nix/store/sy9f1kg7g6hzzdsgv1lf9k5ablm5zdpl-automake-1.16.5/bin:/nix/store/6rdvl63vp5p0gyknf0c3svlwfjd5nbjg-libtool-2.4.7/bin:/nix/store/2gj69111xpbjr5czklnngm3nls1hyf9z-gnum4-1.4.19/bin:/nix/store/v9669mb856l7bjajhbivv0yq30ilwbzk-file-5.42/bin:/nix/store/sndm8q6yhr6a8yy9zdd1sxni3lc8pcmw-nodejs-18.8.0/bin:/nix/store/j45k597n1i6qlr84m9l79wwk0nx8r9gc-typescript-4.7.4/bin:/nix/store/fkwmqzinrwwj56ch0zn2lzsbpn16am1s-bzip2-1.0.8-bin/bin:/nix/store/kk0kqlvrwk536ncxxnygqbgji2b3x32j-lz4-1.9.3-bin/bin:/nix/store/1mdzs6p26qvhxii09ddr9x81njy2wgs2-zstd-1.5.2-bin/bin:/nix/store/lj95y0rqq3ys8f25kmg29xscdrbl6vg1-zstd-1.5.2/bin:/nix/store/rdidnzknj1cv317hl43pfd0gf13x4v98-wasm-pack-0.10.3/bin:/nix/store/hgdh5l11ckwiqy4bnhqbyhcvrfsxnwzs-python3.10-pip-22.1.2/bin:/nix/store/r2w78gl9j0vymgjaz7v1j4lya46hpzgk-binaryen-109/bin:/nix/store/88l3s6akpd6wnvv2iplqpifb6lrz84l2-compiler-rt-libc-11.1.0/bin:/nix/store/mj6wiv9gbbydh06x2i4fl5a9ksdck7c5-coreutils-9.1/bin:/nix/store/nqwkgzay3m6ynr4qz42ypx576s7ckp24-findutils-4.9.0/bin:/nix/store/kdjh27abb5zqy267vh4jyg5hifkgls04-diffutils-3.8/bin:/nix/store/n62963g6w2fj8hnka006wycqwx9pqw5q-gnused-4.8/bin:/nix/store/zpjn33mx0pbfc71ddfi9sc8pdfqrsh8z-gnugrep-3.7/bin:/nix/store/7rd34k5jnjwhpk7i9dwjc9xd93psp4gg-gawk-5.1.1/bin:/nix/store/a9g8ybypk5a7id2w733zysimy7iflrqx-gnutar-1.34/bin:/nix/store/j19qj61afxq0bvw2m2pdzhxbwwmbhsqw-gzip-1.12/bin:/nix/store/fkwmqzinrwwj56ch0zn2lzsbpn16am1s-bzip2-1.0.8-bin/bin:/nix/store/3nb49dj29gxmbmbx9r7a5l4sqcxclhgk-gnumake-4.3/bin:/nix/store/1b9p07z77phvv2hf6gm9f28syp39f1ag-bash-5.1-p16/bin:/nix/store/vd6dg2052y5vmfknb7pv9zr1n1pp58yb-patch-2.7.6/bin:/nix/store/x167mv1qdkmk1s4mw1kb56s3rfw1ff9h-xz-5.2.5-bin/bin:/nix/store/j752yi6l87bfdblcxjcpisn6ynb7izw7-file-5.42/bin:/nix/store/l652yqh4crp7ir0hn9100i7p06h480ll-kitty-0.25.2/bin:/nix/store/v478x0q7ndh712mh703kywlbmxgyri04-imagemagick-7.1.0-45/bin:/nix/store/8ic6v37rpqql3w3mw9wj1mqviidmibi3-ncurses-6.3-p20220507-dev/bin:/run/wrappers/bin:/home/insipx/.nix-profile/bin:/etc/profiles/per-user/insipx/bin:/nix/var/nix/profiles/default/bin:/run/current-system/sw/bin:/home/insipx/.config/emacs/bin/:/home/insipx/.cargo/bin/
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/insipx/projects/efinity/efinity/launch-node/package.json: Unexpected token } in JSON at position 250
+      at JSON.parse (<anonymous>)
+      at /nix/store/y961jfny6k7x345yzzippdqc3aln37vs-yarn-1.22.10/libexec/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/nix/store/y961jfny6k7x345yzzippdqc3aln37vs-yarn-1.22.10/libexec/yarn/lib/cli.js:310:30)
+      at /nix/store/y961jfny6k7x345yzzippdqc3aln37vs-yarn-1.22.10/libexec/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "launch-node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "@polkadot/api": "^9.2.4",
+      "@polkadot/keyring": "^8.4.1",
+      "@polkadot/util": "^8.4.1",
+      "@polkadot/util-crypto": "^8.4.1",
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
