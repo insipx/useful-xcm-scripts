@@ -29,8 +29,10 @@ async function main() {
   // Fund parachains soveriegn account on relay chain
   let efinity_sovereign = get_parachain_sovereign_account(2021);
   let acala_sovereign = get_parachain_sovereign_account(2000);
+  let statemint_sovereign = get_parachain_sovereign_account(1000);
   console.log(`Efinity Sovereign Account: ${efinity_sovereign}`);
   console.log(`Acala Sovereign Account: ${acala_sovereign}`);
+  console.log(`Statemint Sovereign Account: ${statemint_sovereign}`);
 
   process.exit(0);
 }

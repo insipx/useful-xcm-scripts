@@ -151,6 +151,7 @@ async function accept(sender, recipient, paraWs = 'ws://127.0.0.1:9988') {
     { V1: { parents: 1, interior: 'Here' } },
     createXcm(`0x${encoded.slice(6)}`, get_parachain_sovereign_account(recipient))
   );
+  console.log(proposal);
 
   const tx = api.tx.sudo.sudo(proposal);
 
@@ -172,6 +173,8 @@ async function main() {
   await fund(api, get_parachain_sovereign_account(2000), 9 * 1e15);
   await new Promise((r) => setTimeout(r, 2000));
   await fund(api, get_parachain_sovereign_account(2021), 9 * 1e15);
+  await new Promise((r) => setTimeout(r, 2000));
+  await fund(api, get_parachain_sovereign_account(1000), 9 * 1e15);
 
   console.log('sending open');
   await open(2021, 2000, 'ws://127.0.0.1:10010');
@@ -187,6 +190,8 @@ async function main() {
   console.log('sleeping before accepting on efinitys end...');
   await new Promise((r) => setTimeout(r, 60000));
   await accept(2000, 2021, 'ws://127.0.0.1:10010');
+
+  console.log('channel accepted. establishing statemint channel');
 
   process.exit(0);
 }
